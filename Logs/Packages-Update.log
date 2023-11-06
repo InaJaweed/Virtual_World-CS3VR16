@@ -71,3 +71,30 @@ The following packages were added:
   com.unity.render-pipelines.universal@14.0.8
   com.unity.shadergraph@14.0.8
   com.unity.test-framework@1.1.33
+
+=== Sun Nov  5 19:29:40 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.inputsystem from version 1.5.1 to 1.7.0
+  com.unity.render-pipelines.universal from version 14.0.7 to 14.0.8
+
+=== Sun Nov  5 19:29:40 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.cinemachine@2.9.7
+  com.unity.inputsystem@1.7.0
+
+=== Sun Nov  5 19:32:33 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.inputsystem from version 1.5.1 to 1.7.0
+  com.unity.render-pipelines.universal from version 14.0.7 to 14.0.8
